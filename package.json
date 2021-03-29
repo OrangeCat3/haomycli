@@ -1,0 +1,26 @@
+{
+  "name": "haomycli",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "hao": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SWEETCAT1/myKoacli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SWEETCAT1/myKoacli/issues"
+  },
+  "homepage": "https://github.com/SWEETCAT1/myKoacli#readme",
+  "dependencies": {
+    "commander": "^7.2.0"
+  }
+}
